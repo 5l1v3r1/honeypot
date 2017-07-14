@@ -1,0 +1,31 @@
+Attacks in the last 24 hours:
+23,433
+
+TOP 5 Attacker IPs:
+  59.63.188.36 (3,504 attacks)
+  123.183.209.136 (2,830 attacks)
+  58.218.198.149 (2,717 attacks)
+  139.162.128.50 (1,691 attacks)
+  59.63.188.32 (1,035 attacks)
+  
+TOP 5 Attacked ports:
+22 (15,817 times)
+23 (1,625 times)
+1433 (770 times)
+5060 (631 times)
+445 (405 times)
+
+TOP 5 Honey Pots:
+p0f (7,741 attacks)
+suricata (7,291 attacks)
+kippo (5,352 attacks)
+dionaea (1,821 attacks)
+snort (1,208 attacks)
+
+
+TOP 5 Attacks Signatures:
+ET SCAN Potential SSH Scan (466 times)
+ET DROP Dshield Block Listed Source group 1 (146 times)
+ET POLICY Suspicious inbound to MSSQL port 1433 (136 times)
+ET SCAN Sipvicious Scan (93 times)
+ET SCAN Sipvicious User-Agent Detected (friendly-scanner) (90 times)
